@@ -1,13 +1,12 @@
 <img width="1024" height="559" alt="DataAnalystimage1" src="https://github.com/user-attachments/assets/e748425d-e3e2-47eb-9340-ae1270c87e59" />
-
-   **Hi I'm Anitha** 👋  
-##
+ 
+   ##                       **Hi I'm Anitha** 👋 
 
 - 🔭 I'm currently working on data analytics projects and building dynamic Power BI dashboards for business insights
 - 🌱 I'm currently learning advanced Python for machine learning, AI concepts, and enhancing my data storytelling skills
 - 👯 I'm looking to collaborate on data integration projects, ETL pipeline development, and business intelligence solutions
 - 🤔 I'm looking for help with advanced machine learning algorithms and cloud-based data analytics platforms
-- 💬 Ask me about SQL optimization, Power BI dashboard creation, Informatica PowerCenter, data integration using Boomi, or ETL best practices
+- 💬 Ask me about SQL optimization, Power BI dashboard creation, Informatica PowerCenter, data integration using Boomi
 - 📫 How to reach me: anildikshu08@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anithaarasu)
 - 😄 Pronouns: She/Her
 
@@ -25,6 +24,9 @@
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anithaarasu)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_GMAIL_ADDRESS)
 
 
 <!--
