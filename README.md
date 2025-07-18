@@ -10,6 +10,11 @@
 - 📫 How to reach me: anildikshu08@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anithaarasu)
 - 😄 Pronouns: She/Her
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anithaarasu)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anildikshu08@gmail.com)
+
+
+
 ## 🛠️ Technical Skills
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -25,17 +30,12 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anithaarasu)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anildikshu08@gmail.com)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnithaTArasu&show_icons=true&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaTArasu&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292e)
+                               ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnithaTArasu&show_icons=true&theme=default)
 
-
-
-
-
-
+ 
 <!--
 **AnithaTArasu/AnithaTArasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
