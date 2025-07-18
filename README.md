@@ -29,6 +29,13 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anildikshu08@gmail.com)
 
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnithaTArasu&show_icons=true&theme=default)
+
+
+
+
+
+
 <!--
 **AnithaTArasu/AnithaTArasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
