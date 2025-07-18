@@ -1,6 +1,11 @@
 <img width="1024" height="559" alt="DataAnalystimage1" src="https://github.com/user-attachments/assets/e748425d-e3e2-47eb-9340-ae1270c87e59" />
 
    **Hi, I'm Anitha** 👋  
+
+
+   - 🔭 I'm currently working on data analytics projects and building dynamic Power BI dashboards for business insights
+
+
 <!--
 **AnithaTArasu/AnithaTArasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
