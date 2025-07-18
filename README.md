@@ -1,7 +1,7 @@
 
 ![DataAnalystimage](https://github.com/user-attachments/assets/85885834-47b6-42cb-8435-abeb313b11b4)
  
-**Hi, I'm Anitha** 👋
+ **Hi, I'm Anitha** 👋  
 <!--
 **AnithaTArasu/AnithaTArasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
