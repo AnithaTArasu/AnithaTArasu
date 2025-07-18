@@ -14,11 +14,17 @@
 ## 🛠️ Technical Skills
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Informatica PowerCenter](https://img.shields.io/badge/-Informatica%20PowerCenter-007ACC?style=flat&logoColor=white)](https://www.informatica.com/products/data-integration/powercenter.html)
+[![IBM DataStage](https://img.shields.io/badge/-IBM%20DataStage-006699?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/datastage)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
+
 
 
 <!--
