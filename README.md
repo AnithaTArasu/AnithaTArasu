@@ -29,10 +29,6 @@
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## 🛠️ Certifications
-[<img src="https://images.credly.com/size/80x80/images/9d690b60-bd53-4b40-b9dc-1f77f6e91f52/image.png" width="50"/>](https://www.credly.com/badges/8cc1a41a-1de5-4143-94ec-06bead124b9b/public_url)  
-**PCEP – Certified Entry-Level Python Programmer**  
-*Issued by Python Institute via Credly*  
-
 
 [<img src="https://images.credly.com/size/80x80/images/9d690b60-bd53-4b40-b9dc-1f77f6e91f52/image.png" width="48" alt="PCEP Badge">](https://www.credly.com/badges/8cc1a41a-1de5-4143-94ec-06bead124b9b/public_url)
 **PCEP – Certified Entry-Level Python Programmer**  
