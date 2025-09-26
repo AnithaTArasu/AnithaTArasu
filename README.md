@@ -28,8 +28,8 @@
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
-
-
+## 🛠️ Certifications
+[![PCEP Badge](https://images.credly.com/your-badge-image-link.png)]([https://www.credly.com/badges/your-badge-verification-link](https://images.credly.com/size/220x220/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png))
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaTArasu&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292e)
