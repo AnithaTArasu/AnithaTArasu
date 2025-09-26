@@ -2,13 +2,13 @@
  
    ##                       **Hi I'm Anitha** 👋 
 
-- 🔭 I'm currently working on data analytics projects and building dynamic Power BI dashboards for business insights
-- 🌱 I'm currently learning advanced Python for machine learning, AI concepts, and enhancing my data storytelling skills
-- 👯 I'm looking to collaborate on data integration projects, ETL pipeline development, and business intelligence solutions
-- 🤔 I'm looking for help with advanced machine learning algorithms and cloud-based data analytics platforms
-- 💬 Ask me about SQL optimization, Power BI dashboard creation, Informatica PowerCenter, data integration using Boomi
-- 📫 How to reach me: anildikshu08@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anithaarasu)
-- 😄 Pronouns: She/Her
+- I'm currently working on data analytics projects and building dynamic Power BI dashboards for business insights
+- I'm currently learning advanced Python for machine learning, AI concepts, and enhancing my data storytelling skills
+- I'm looking to collaborate on data integration projects, ETL pipeline development, and business intelligence solutions
+- I'm looking for help with advanced machine learning algorithms and cloud-based data analytics platforms
+- Ask me about SQL optimization, Power BI dashboard creation, Informatica PowerCenter, data integration using Boomi
+- How to reach me: anildikshu08@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anithaarasu)
+- Pronouns: She/Her
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anithaarasu)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anildikshu08@gmail.com)
