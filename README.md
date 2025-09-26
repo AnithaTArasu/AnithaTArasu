@@ -29,7 +29,7 @@
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## 🛠️ Certifications
-[![PCEP Badge](https://images.credly.com/your-badge-image-link.png)]([https://www.credly.com/badges/your-badge-verification-link](https://images.credly.com/size/220x220/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png))
+[![PCEP Badge](https://images.credly.com/size/200x200/images/9d690b60-bd53-4b40-b9dc-1f77f6e91f52/image.png)](https://www.credly.com/badges/8cc1a41a-1de5-4143-94ec-06bead124b9b/public_url)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnithaTArasu&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292e)
